@@ -1,6 +1,6 @@
-# Includes the autoloader for libraries installed with composer
 <?php
 
+# Includes the autoloader for libraries installed with composer
 require __DIR__ . '/vendor/autoload.php';
 
 # Imports the Google Cloud client library

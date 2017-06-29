@@ -1,5 +1,6 @@
 {
     "require": {
-        "google/cloud": "^0.32.1"
+        "google/cloud": "^0.32.1",
+        "google/apiclient": "^2.1"
     }
 }

@@ -2,5 +2,14 @@ runtime: php55
 api_version: 1
 
 handlers:
-- url: /.*
+- url: /
   script: helloworld.php
+
+- url: /vision-hello\.php
+  script: vision-hello.php
+
+- url: /oauth-sample
+  script: oauth-sample.php
+
+- url: /list
+  script: list.php
