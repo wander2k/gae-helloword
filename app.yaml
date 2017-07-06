@@ -13,3 +13,12 @@ handlers:
 
 - url: /list
   script: list.php
+
+- url: /data-init
+  script: data-init.php
+
+- url: /ds-test
+  script: ds-test.php
+
+- url: /vision-test
+  script: googleVisionAPIDemo.html

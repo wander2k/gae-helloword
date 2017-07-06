@@ -48,5 +48,4 @@ if ($client->getAccessToken()) {
 
 ?>
 <a href="list">ファイル一覧</a><br>
-<a href="imageview.php">画像表示</a><br>
-<a href="upload.php">アップロード</a>
+<a href="data-init">データ投入</a>
